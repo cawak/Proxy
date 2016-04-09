@@ -19,4 +19,5 @@ public class ListOfIntervals {
     public void setIntervalsList(List<Intervals> intervalsList) {
         this.intervalsList = intervalsList;
     }
+
 }
